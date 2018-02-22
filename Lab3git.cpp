@@ -6,6 +6,8 @@
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
+// This program is going to find out the factorial of a number.
+
 #include <iostream>
 using namespace std;
 
